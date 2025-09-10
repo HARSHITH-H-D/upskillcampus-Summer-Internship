@@ -1,24 +1,23 @@
-Banking System Application
-Overview
-This is a simple Banking System Application built using Core Java. The project allows users to perform basic banking operations such as account creation, balance checking, deposits, withdrawals, and transaction history. The application uses CSV files for data storage to simulate a basic database.
+# Banking System Application – Summer Internship Project at Upskill Campus
 
-Features
-Account Creation: Users can create a new bank account with personal details.
-Balance Inquiry: Allows users to check their account balance.
-Deposit Funds: Users can deposit money into their account.
-Withdraw Funds: Users can withdraw money, provided they have sufficient balance.
-Transaction History: Logs all deposits, withdrawals, and account updates for review.
-Technologies Used
-Java Core Concepts: Object-oriented programming, file handling, exception handling, collections, multithreading.
-Data Storage: CSV files for managing user data and transaction history.
+A console-based **banking system application** developed as part of the Upskill Campus Summer Internship. Built using **Core Java**, this project simulates a basic banking environment where users can:
 
-Requirements
-Java JDK 8 or higher must be installed on your system.
-CSV File Handling: Make sure the CSV files are writable and accessible.
+- **Create accounts** with personal details.
+- **Check account balances**.
+- **Deposit and withdraw funds**.
+- **View transaction history**—all operations are logged for review.
 
-Future Improvements
-Implementing JDBC for database connectivity with MySQL or SQLite.
-Adding authentication and encryption for sensitive user data.
+**Technologies & Concepts Used:**
+- Core Java: Object-Oriented Programming (OOP), File I/O, Exception Handling, Collections, and Multithreading.
+- Data Storage: CSV files used to manage and persist user and transaction data.
 
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests with improvements and suggestions.
+**Requirements:**
+- Java JDK 8 or higher installed.
+- Read/write access to the CSV files used for data storage.
+
+**Future Enhancements:**
+- Integrate a database system (e.g., MySQL or SQLite) using JDBC.
+- Add user authentication and encrypt sensitive data for improved security.
+
+**Contributions:**
+Contributions are welcome! Feel free to submit pull requests or open issues with your suggestions and improvements.
